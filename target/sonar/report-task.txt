@@ -1,0 +1,6 @@
+projectKey=cgproject:onlinewallet3
+serverUrl=http://localhost:9000
+serverVersion=6.5.0.27846
+dashboardUrl=http://localhost:9000/dashboard/index/cgproject:onlinewallet3
+ceTaskId=AXBrP9sRRb_ybgMmZ9E8
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXBrP9sRRb_ybgMmZ9E8
